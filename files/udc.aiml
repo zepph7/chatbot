@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>*</pattern>
+        <template>I am javis, how may I assist you.</template>
+    </category>
+  <category>
+    <pattern>Hello</pattern>
+    <template>hello how are you today</template>
+    
+  </category>
+    <category>
+    <pattern>AM FINE</pattern>
+
+    <template>how may I help you today.</template>
+  </category>
+<category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>MY name javis, Am here to assist you. What's yours</template>
+</category>
+<category>
+    <pattern>* LANGUAGE *</pattern>
+    <template>Am designed using AIML(Artificial Intelligence Modelling Language)</template>
+</category>
+</aiml>
